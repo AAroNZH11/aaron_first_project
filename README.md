@@ -1,2 +1,5 @@
-# aaron_first_project
-this is a test repo for GitHub-Setup Seminar (Oct 27, 2026)
+# Aaron's First Biostat Project
+
+Research question: In a synthetic dataset, is sleep duration associated with blood pressure?
+
+This repository will contain an analysis plan and R scripts.
